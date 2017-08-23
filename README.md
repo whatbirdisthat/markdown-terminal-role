@@ -25,16 +25,13 @@ md() {
 }
 ```
 
-Then either source your bashrc and you will have a new "builtin" (not really but yknow) called `md` which will take the first argument and try to load it up.
+Then either source your bashrc (or kill your terminal and start a new one) and you will have a new "builtin" (not really but yknow) called `md` which will take the first argument and try to load it up.
 
 ## FAQ
 
-*Q* Shouldn't this be a *Gist* ?
-*A* Yeah probably (but it *was* going to be an ansible thing so I could automate all the things)
-
-*Q* Are you going to ansiblize this so you can automate all the things
-*A* Yeah probably - unless you feel like PR'ing and **you** can do it!
-
-*Q* Can I just steal all this and forget where I got it from?
-*A* Feel free - I can't remember how I got it ... probably StackOverflow though, to be honest :)
+|Question|Answer|
+|---|---|
+|Shouldn't this be a *Gist* ?|Yeah probably (but it *was* going to be an ansible thing so I could automate all the things)|
+|Are you going to ansiblize this so you can automate all the things|Yeah probably - unless you feel like PR'ing and **you** can do it!|
+|Can I just steal all this and forget where I got it from?|Feel free - I can't remember how I got it ... probably StackOverflow though, to be honest :)|
 
